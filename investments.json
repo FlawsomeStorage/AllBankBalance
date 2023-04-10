@@ -1,0 +1,38 @@
+[
+    {
+      "title": "Upstox",
+      "short_description": "",
+      "description": "",
+      "imgURL": "",
+      "clickURL": "",
+      "buttonTitle": "",
+      "type": 2
+    },
+    {
+      "title": "Upstox Free Demat Account",
+      "short_description": "Single account for all your investing and trading needs",
+      "description": "Quick Onboarding:\nSecure onboarding process. Set up a Demat account with just PAN, Aadhaar and eKYC.\n\nEasy Accessibility:\nLogin with biometrics or mobile number and buy/sell stocks from our web, Android or iOS platforms in one click.\n\nSmooth Orders:\nWith just a toggle switch, switch between intraday or delivery orders. Enjoy GTT and AMO on Stocks and F&O orders.\n\nInformed Decisions:\nSearch stocks easily using smart lists and smart filters. Get latest news, analyse charts and find in-depth company information to make informed decisions.\n",
+      "imgURL": "https://qph.cf2.quoracdn.net/main-qimg-156d1c69b5d9a974ae8789621163a18f",
+      "clickURL": "https://upstox.com/",
+      "buttonTitle": "SignUp Now",
+      "type": 1
+    },
+    {
+      "title": "5paisa",
+      "short_description": "",
+      "description": "",
+      "imgURL": "",
+      "clickURL": "",
+      "buttonTitle": "",
+      "type": 2
+    },
+    {
+      "title": "5paisa.com All-in-One Trading and Demat Account",
+      "short_description": "Built for speed and security, 5paisa’s cutting-edge investment app takes your trading experience to a whole new level.",
+      "description": "What is a Demat account and why do you need one?\n- A Demat account is one of the basic requirements to trade online. A Demat account allows investors to convert physical shares into the dematerialized format and hold them in electronic form.\n- Apart from shares, the Demat account can also hold bonds, ETFs, mutual funds, gold bonds, and other similar assets with a unique ISIN number.\n- With 5paisa you can open a demat account online\n\nWhat are the features and benefits of a 5paisa Demat account?\n- All your investments are held in an electronic form, which reduces paperwork.\n- Eliminates all the risks associated in dealing with physical shares like physical damage or misplacement.\n- Ensures the safety of your stocks with no storing risks.\n- Supports Quick share transfer\n- Allows faster transaction, resulting in quick credit for investors\n- 5paisa helps you to open your demat account with minimum brokerage",
+      "imgURL": "https://storage.googleapis.com/5paisa-prod-storage/29-09-2022/All%20in%20one%20demat%20account.jpeg",
+      "clickURL": "https://www.5paisa.com/",
+      "buttonTitle": "SignUp Now",
+      "type": 1
+    }
+]
