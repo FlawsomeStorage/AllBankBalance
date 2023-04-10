@@ -1,22 +1,50 @@
-{
-    "glossary": {
-        "title": "example glossary",
-		"GlossDiv": {
-            "title": "S",
-			"GlossList": {
-                "GlossEntry": {
-                    "ID": "SGML",
-					"SortAs": "SGML",
-					"GlossTerm": "Standard Generalized Markup Language",
-					"Acronym": "SGML",
-					"Abbrev": "ISO 8879:1986",
-					"GlossDef": {
-                        "para": "A meta-markup language, used to create markup languages such as DocBook.",
-						"GlossSeeAlso": ["GML", "XML"]
-                    },
-					"GlossSee": "markup"
-                }
-            }
-        }
-    }
-}
+[
+    {
+      "title": "Personal Loan",
+      "description": "",
+      "imgURL": "",
+      "clickURL": "",
+      "buttonTitle": "",
+      "type": 2
+    },
+    {
+      "title": "Indialends Personal Loans",
+      "description": "Apply for Online Personal loans starting 10.25% interest rate.",
+      "imgURL": "https://play-lh.googleusercontent.com/DLTtI6yIIwwsx84OcemY3gIHAvixzrrOBHuqIhwXw3CEhNpuxtM_fdQdm1LKlp2j5g",
+      "clickURL": "https://indialends.com/personal-loan",
+      "buttonTitle": "Apply Now",
+      "type": 1
+    },
+    {
+      "title": "EarlySalary App",
+      "description": "Get an Instant Loan up to ₹5 Lakh in just 10 minutes",
+      "imgURL": "https://m.media-amazon.com/images/I/71TTzdk2z-L.png",
+      "clickURL": "https://www.fibe.in/personal-loan",
+      "buttonTitle": "Apply Now",
+      "type": 1
+    },
+    {
+      "title": "Credit Links",
+      "description": "Get Personal loans up to Rs.5 Lakh without collateral",
+      "imgURL": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/svrgzptlezola8rh11rt",
+      "clickURL": "https://l.creditlinks.in/",
+      "buttonTitle": "Apply Now",
+      "type": 1
+    }, 
+    {
+      "title": "Credit Card",
+      "description": "",
+      "imgURL": "",
+      "clickURL": "",
+      "buttonTitle": "",
+      "type": 2
+    },
+    {
+      "title": "Bajaj Finserv",
+      "description": "200 INR for account open. 300 INR for Deposit",
+      "imgURL": "https://dvh1deh6tagwk.cloudfront.net/finder-us/wp-uploads/sites/13/2021/05/BajajFinserv-250x250_Supplied.png",
+      "clickURL": "https://www.bajajfinserv.in/insta-emi-card",
+      "buttonTitle": "Apply Now",
+      "type": 1
+    },
+]
