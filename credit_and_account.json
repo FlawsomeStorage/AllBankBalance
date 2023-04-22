@@ -16,18 +16,10 @@
       "type": 1
     },
     {
-      "title": "Indialends Personal Loans",
-      "description": "Apply for Online Personal loans starting 10.25% interest rate.",
-      "imgURL": "https://play-lh.googleusercontent.com/DLTtI6yIIwwsx84OcemY3gIHAvixzrrOBHuqIhwXw3CEhNpuxtM_fdQdm1LKlp2j5g",
-      "clickURL": "https://indialends.com/personal-loan",
-      "buttonTitle": "Apply Now",
-      "type": 1
-    },
-    {
-      "title": "Credit Links",
-      "description": "Get Personal loans up to Rs.5 Lakh without collateral",
-      "imgURL": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/svrgzptlezola8rh11rt",
-      "clickURL": "https://l.creditlinks.in/",
+      "title": "Money View",
+      "description": "Personal loan interest rates of as low as 1.33% per month, Avail any amount of loan from Rs 5K to Rs 5L in a matter of minutesApply Now!",
+      "imgURL": "https://play-lh.googleusercontent.com/R4IvJ82_OKFalvrnZtqe3ZTKrn_MjtLX1aKHN7jNHuWMlq6MbRzV2UDZY3QyzFkjCF4=s94-rw",
+      "clickURL": "https://ekaro.in/enkr20230414s23889036",
       "buttonTitle": "Apply Now",
       "type": 1
     }, 
@@ -47,11 +39,27 @@
       "buttonTitle": "Apply Now",
       "type": 1
     },
+     {
+      "title": "SBI Simply click credit card",
+      "description": "Get rewards on Online spends, Amazon gift voucher & More. Instant approval for online Credit Card application.",
+      "imgURL": "https://play-lh.googleusercontent.com/VAGc-pL6bhAjqM6SMCkRKYi3SQO4ASZUCn9KBgbJFRIxhWwxpo4hfFN5-w4AxEbK_kI=w240-h480-rw",
+      "clickURL": "https://ekaro.in/enkr20230414s23896266",
+      "buttonTitle": "Apply Now",
+      "type": 1
+    },
     {
-      "title": "Bajaj Finserv",
-      "description": "200 INR for account open. 300 INR for Deposit",
-      "imgURL": "https://dvh1deh6tagwk.cloudfront.net/finder-us/wp-uploads/sites/13/2021/05/BajajFinserv-250x250_Supplied.png",
-      "clickURL": "https://www.bajajfinserv.in/insta-emi-card",
+      "title": "Axis Flipkart Credit Card",
+      "description": "Get exclusive offers and cashbacks on fashion, food, travel etc.",
+      "imgURL": "https://bankkaro.s3.ap-south-1.amazonaws.com/fk_axis.png",
+      "clickURL": "https://ekaro.in/enkr20230422s24252077",
+      "buttonTitle": "Apply Now",
+      "type": 1
+    },
+      {
+      "title": "Axis Vistara Infinite Credit card",
+      "description": "For getting complimentary Business Class domestic flight tickets, For frequent Air Vistara travellers.",
+      "imgURL": "https://bankkaro.s3.ap-south-1.amazonaws.com/axis_vistara_infinite_tIlted.png",
+      "clickURL": "https://ekaro.in/enkr20230422s24252278",
       "buttonTitle": "Apply Now",
       "type": 1
     },
