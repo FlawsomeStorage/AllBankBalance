@@ -5,7 +5,8 @@
       "description": "",
       "imgURL": "",
       "clickURL": "",
-      "buttonTitle": "",
+      "buttonTitle": "",      
+      "isWeb": true,
       "type": 2
     },
     {
@@ -14,7 +15,8 @@
       "description": "Upstox is one of India's largest and fastest-growing investment platforms with over 1 crore+ users. Recently they’ve introduced a new app, which is swifter, smarter, smoother and easy-to-use,for both pro traders and beginners. It allows you to invest in Stocks, Futures, Options, Mutual Funds, IPOs and more. Opening an account is fast and paperless! Sign up now to get more benifits of investing through upstox.\n\nQuick Onboarding:\nSecure onboarding process. Set up a Demat account with just PAN, Aadhaar and eKYC.\n\nEasy Accessibility:\nLogin with biometrics or mobile number and buy/sell stocks from our web, Android or iOS platforms in one click.\n\nSmooth Orders:\nWith just a toggle switch, switch between intraday or delivery orders. Enjoy GTT and AMO on Stocks and F&O orders.\n\nInformed Decisions:\nSearch stocks easily using smart lists and smart filters. Get latest news, analyse charts and find in-depth company information to make informed decisions.\n",
       "imgURL": "https://qph.cf2.quoracdn.net/main-qimg-156d1c69b5d9a974ae8789621163a18f",
       "clickURL": "https://upstox.com/open-account/?f=57AVR8",
-      "buttonTitle": "SignUp Now",
+      "buttonTitle": "SignUp Now",      
+      "isWeb": true,
       "type": 1
     },
     {
@@ -23,7 +25,8 @@
       "description": "",
       "imgURL": "",
       "clickURL": "",
-      "buttonTitle": "",
+      "buttonTitle": "",      
+      "isWeb": true,
       "type": 2
     },
     {
@@ -32,7 +35,8 @@
       "description": "What is a Demat account and why do you need one?\n- A Demat account is one of the basic requirements to trade online. A Demat account allows investors to convert physical shares into the dematerialized format and hold them in electronic form.\n- Apart from shares, the Demat account can also hold bonds, ETFs, mutual funds, gold bonds, and other similar assets with a unique ISIN number.\n- With 5paisa you can open a demat account online\n\nWhat are the features and benefits of a 5paisa Demat account?\n- All your investments are held in an electronic form, which reduces paperwork.\n- Eliminates all the risks associated in dealing with physical shares like physical damage or misplacement.\n- Ensures the safety of your stocks with no storing risks.\n- Supports Quick share transfer\n- Allows faster transaction, resulting in quick credit for investors\n- 5paisa helps you to open your demat account with minimum brokerage",
       "imgURL": "https://storage.googleapis.com/5paisa-prod-storage/29-09-2022/All%20in%20one%20demat%20account.jpeg",
       "clickURL": "https://inr.deals/track?id=wil651512512&src=merchant-detail-backend&campaign=cpa&url=https%3A%2F%2F5paisa.com",
-      "buttonTitle": "SignUp Now",
+      "buttonTitle": "SignUp Now",      
+      "isWeb": true,
       "type": 1
     }
 ]
