@@ -27,6 +27,24 @@
       "type": 1
     }, 
     {
+      "title": "Home Loans",
+      "description": "",
+      "imgURL": "",
+      "clickURL": "",
+      "buttonTitle": "",      
+      "isWeb": true,
+      "type": 2
+    },
+    {
+      "title": "ICICI Home Loans",
+      "description": "Apply for ICICI Home Loan online at an Attractive Interest Rate. Hurry!",
+      "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Ap3KZASuO2MtAF5YgumE7sOpo47QaQCqFQ&usqp=CAU",
+      "clickURL": "https://www.icicibank.com/personal-banking/loans/home-loan/home-loan-online",
+      "buttonTitle": "Apply Now",      
+      "isWeb": true,
+      "type": 1
+    },
+    {
       "title": "Credit Card",
       "description": "",
       "imgURL": "",
@@ -87,23 +105,6 @@
       "buttonTitle": "Open Now",      
       "isWeb": false,
       "type": 1
-    },
-    {
-      "title": "Home Loans",
-      "description": "",
-      "imgURL": "",
-      "clickURL": "",
-      "buttonTitle": "",      
-      "isWeb": true,
-      "type": 2
-    },
-    {
-      "title": "ICICI Home Loans",
-      "description": "Apply for ICICI Home Loan online at an Attractive Interest Rate. Hurry!",
-      "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Ap3KZASuO2MtAF5YgumE7sOpo47QaQCqFQ&usqp=CAU",
-      "clickURL": "https://www.icicibank.com/personal-banking/loans/home-loan/home-loan-online",
-      "buttonTitle": "Apply Now",      
-      "isWeb": true,
-      "type": 1
     }
+    
 ]
