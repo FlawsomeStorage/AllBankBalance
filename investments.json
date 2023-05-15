@@ -16,7 +16,7 @@
       "imgURL": "https://qph.cf2.quoracdn.net/main-qimg-156d1c69b5d9a974ae8789621163a18f",
       "clickURL": "https://upstox.com/open-account/?f=57AVR8",
       "buttonTitle": "SignUp Now",      
-      "isWeb": true,
+      "isWeb": false,
       "type": 1
     },
     {
@@ -36,7 +36,7 @@
       "imgURL": "https://storage.googleapis.com/5paisa-prod-storage/29-09-2022/All%20in%20one%20demat%20account.jpeg",
       "clickURL": "https://inr.deals/track?id=wil651512512&src=merchant-detail-backend&campaign=cpa&url=https%3A%2F%2F5paisa.com",
       "buttonTitle": "SignUp Now",      
-      "isWeb": true,
+      "isWeb": false,
       "type": 1
     }
 ]
