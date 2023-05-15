@@ -14,7 +14,7 @@
       "imgURL": "https://play-lh.googleusercontent.com/IXqJjk86zujVgGivvNVeMrWfZu-HJ6qimF3f6VcibAkkQ4Yr539sE6mJf-rIdTJDgAn0=w240-h480-rw",
       "clickURL": "https://inr.deals/track?id=wil651512512&src=merchant-detail-backend&campaign=cpl&url=https%3A%2F%2Fwww.paisabazaar.com%2Fpersonal-loans",
       "buttonTitle": "Apply Now",      
-      "isWeb": true,
+      "isWeb": false,
       "type": 1
     },
     {
@@ -23,7 +23,7 @@
       "imgURL": "https://play-lh.googleusercontent.com/R4IvJ82_OKFalvrnZtqe3ZTKrn_MjtLX1aKHN7jNHuWMlq6MbRzV2UDZY3QyzFkjCF4=s94-rw",
       "clickURL": "https://ekaro.in/enkr20230414s23889036",
       "buttonTitle": "Apply Now",      
-      "isWeb": true,
+      "isWeb": false,
       "type": 1
     }, 
     {
@@ -32,7 +32,7 @@
       "imgURL": "",
       "clickURL": "",
       "buttonTitle": "",      
-      "isWeb": true,
+      "isWeb": false,
       "type": 2
     },
     {
@@ -41,7 +41,7 @@
       "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Ap3KZASuO2MtAF5YgumE7sOpo47QaQCqFQ&usqp=CAU",
       "clickURL": "https://www.icicibank.com/personal-banking/loans/home-loan/home-loan-online",
       "buttonTitle": "Apply Now",      
-      "isWeb": true,
+      "isWeb": false,
       "type": 1
     },
     {
@@ -68,7 +68,7 @@
       "imgURL": "https://play-lh.googleusercontent.com/VAGc-pL6bhAjqM6SMCkRKYi3SQO4ASZUCn9KBgbJFRIxhWwxpo4hfFN5-w4AxEbK_kI=w240-h480-rw",
       "clickURL": "https://ekaro.in/enkr20230414s23896266",
       "buttonTitle": "Apply Now",      
-      "isWeb": true,
+      "isWeb": false,
       "type": 1
     },
     {
@@ -85,7 +85,7 @@
       "imgURL": "https://bankkaro.s3.ap-south-1.amazonaws.com/axis_vistara_infinite_tIlted.png",
       "clickURL": "https://ekaro.in/enkr20230422s24252278",
       "buttonTitle": "Apply Now",      
-      "isWeb": true,
+      "isWeb": false,
       "type": 1
     },
     {
