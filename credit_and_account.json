@@ -27,6 +27,24 @@
       "type": 1
     }, 
     {
+      "title": "Insurance",
+      "description": "",
+      "imgURL": "",
+      "clickURL": "",
+      "buttonTitle": "",
+      "isWeb": true,
+      "type": 2
+    },
+    {
+      "title": "AAA - Auto Club Group",
+      "description": "AAA Insurance. For the little things, Like your Home & Car.",
+      "imgURL": "https://play-lh.googleusercontent.com/rHWAVuSq5-tcwY1rRdnUBK3ALK2mQ5F3F9oQIXOeCGAxGADuMmNt7EZMYlJYafVA5ec=w240-h480-rw",
+      "clickURL": "https://memberapps.acg.aaa.com/auto-quote/auto-quote?p=zZK8iRVjZkPgGfBRDJZzMJOTMuXJlBQvBTh1Syt4UgjP2xPOSAOOxx%20BtIQNoWx2iJQYsLmmqlBHKvSyd38kY4ZVnsyZP2KoeGpSQihQ%20xIk6u%2Fes%205pxhmqRhQL1%20BksiMA%2FXRb7cfzy1Q03JU19Aq67CeYW76vr1udt86gu5AXz%2FXMLXsOwv3j16zQSnJ6dMhsIo5rt4%20Jfa9X0OBOR%2FEae6Lg%20%2FO8BmyL2t7%202WQL%20uvzPQXfck76g4V%202vQnmI5bJxGk21XN7TlNPof3U%208R2LweUhWyUIRMakzkzlrLF3CeKCrQDOE61ciPBzyDpPmHULh6ivXFHC1xdO6OKbd52pzQJ0HAki9gFGq4q7TPkuvcFHpWKdXUb56UG6Hs78LJjAZ%2FGCgoHBaD51Bih3FAEsKvoKk7IoRcku0NWrbI6RLXT8ec5m%2FPG2AJV3emdtfWVOyim6WiB7uCrtGgdO%2011B7Z5pyvS5quBc5CtZ%20fe%2FUZLSkb0thC7i4D2usRwi3IBjDku4%2F4JsO7SHnTkF%20LFZ9c%2FdKH4WfSxihmA9s%3D",
+      "buttonTitle": "Learn more",      
+      "isWeb": false,
+      "type": 1
+    },
+    {
       "title": "Home Loans",
       "description": "",
       "imgURL": "",
